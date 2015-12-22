@@ -1,0 +1,1 @@
+var text = document.getElementById('input').innerHTML.split('\n');
